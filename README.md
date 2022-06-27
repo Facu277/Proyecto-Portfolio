@@ -18,7 +18,7 @@ Para iniciar con este proyecto debes tener lo siguiente:
 
 ## Iniciar Proyecto 
 
-Una recomendación nuestra es que uses la extensión [Live Server] (https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) para VS Code. Esta extensión te permite iniciar un servidor en tiempo real y ver los cambios que se hagan en el código.
+Una recomendación nuestra es que uses la extensión [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) para VS Code. Esta extensión te permite iniciar un servidor en tiempo real y ver los cambios que se hagan en el código.
 
 ## Manejo de Problemas 
 
@@ -26,4 +26,4 @@ Si tienes alguna duda o problema que no se puede resolver en el proyecto te anim
 
 ## Recursos
 
-Si te interesa saber más del avatar utilizado en este proyecto, puede ver [Open Peeps] (https://www.openpeeps.com/) donde podrás personalizar y descargar tu propio avatar con el mismo estilo y gratis.   
+Si te interesa saber más del avatar utilizado en este proyecto, puede ver [Open Peeps](https://www.openpeeps.com/) donde podrás personalizar y descargar tu propio avatar con el mismo estilo y gratis.   
